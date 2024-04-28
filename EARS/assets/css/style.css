@@ -1,0 +1,37 @@
+body{
+	height:100%;
+}
+div#main {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+#main .container{
+	margin:200px;
+}
+
+.container-fluid.admin{
+	padding: 20px;
+	width: 80%;
+	max-width: inherit;
+	margin-left: 250px
+}
+.container-fluid.admin2{
+	padding: 20px;
+	max-width: inherit;
+	height: 100%
+}
+.attendance_log_field{
+	top:20%;
+	position: relative;
+}
+#company-logo-field {
+	display: flex;
+}
+#company-logo-field h4,#company-logo-field img{
+	margin:auto;
+}
+#log_display{
+	font-weight: bold;
+	font-size:17px;
+}

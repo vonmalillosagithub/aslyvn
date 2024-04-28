@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body{
+
+
+    background: url(abc.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+
+h5 {
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    right: 100px; 
+    transform: translateY(-50%);
+    text-shadow: 
+        -1px -1px 0 black,  
+        1px -1px 0 black,
+        -1px 1px 0 black,
+        1px 1px 0 black; 
+}
+
+
+.humpbrey{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    display: flex;
+}
+
+.neil{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    display: flex;
+}
+
+
+.emp {
+    text-align: left;
+    margin-left: 100px;
+    
+
+}
+
+.emp img {
+    width: 250px; 
+    height: auto; 
+}
+.pr{
+    text-align: left;
+    margin-left: 78px;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.salary{
+    text-align: left;
+    margin-left: 100px;
+}
+.salary img {
+    width: 250px; 
+    height: auto; 
+}
+
+.sr{
+    text-align: left;
+    margin-bottom: 50px;
+    margin-left: 78px;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.attnd{
+    text-align: left;
+    margin-left: 250px;
+    
+}
+
+.attnd img{
+    width: 250px; 
+    height: auto;
+}
+
+.at{
+    text-align: left;
+    margin-left: 40px;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.usr{
+    text-align: left;
+    margin-left: 250px;
+}
+
+.usr img{
+    width: 250px; 
+    height: auto;
+}
+
+.ur{
+    text-align: left;
+    margin-bottom: 50px;
+    margin-left: 78px;
+    font-weight: 500;
+    font-size: 30px; 
+}
+ 
+
+
+
+

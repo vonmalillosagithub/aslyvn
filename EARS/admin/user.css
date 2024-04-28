@@ -1,0 +1,28 @@
+*{
+    background: url("logo.png");
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #B2A59B;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+thead{
+    background-color: aliceblue;
+}
+td, tbody{
+    background-color: white;
+    border-color: black;
+}
+.btn-sm{
+    color: black;
+    background-color: white;
+    border-color: black;
+    font-size: 19px;
+}
+.btn-success:hover{
+    background-color: gray;
+    border-color: gray;
+}
